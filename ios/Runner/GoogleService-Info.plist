@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>497685752739-ot1jhs87cu7uctvtsetri76cdu6cct7f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.497685752739-ot1jhs87cu7uctvtsetri76cdu6cct7f</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>497685752739-7rjbmu22o3e8q1e02gmakfo5avjur9ed.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB18qLcmI3yjoHl4a6vmulSWS75FdS00mg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>497685752739</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.heroig</string>
+	<key>PROJECT_ID</key>
+	<string>heroigitera</string>
+	<key>STORAGE_BUCKET</key>
+	<string>heroigitera.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:497685752739:ios:2ffb356f1c26a030428816</string>
+	<key>DATABASE_URL</key>
+	<string>https://heroigitera-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

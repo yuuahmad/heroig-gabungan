@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497685752739",
+    "firebase_url": "https://heroigitera-default-rtdb.firebaseio.com",
+    "project_id": "heroigitera",
+    "storage_bucket": "heroigitera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497685752739:android:93ab3a7bef37b2ed428816",
+        "android_client_info": {
+          "package_name": "com.example.heroig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497685752739-7rjbmu22o3e8q1e02gmakfo5avjur9ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heroig",
+            "certificate_hash": "87c7c7bceb2b9d4966abd46c86aad564d94c6071"
+          }
+        },
+        {
+          "client_id": "497685752739-8sg69a4tg12ob6grebqb400lrrir2se8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhmPyJxIr7NPbYFwFlsZ1pPr33c8jkwBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497685752739-8sg69a4tg12ob6grebqb400lrrir2se8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
